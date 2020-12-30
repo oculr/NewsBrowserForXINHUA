@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">新华网</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SHANY</string>
+    <string name="nav_header_subtitle">https://github.com/oculr</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="action_settings">设置</string>
+    <string name="politics">新华时政</string>
+    <string name="world">新华国际</string>
+    <string name="fortune">新华金融</string>
+    <string name="tech">新华科技</string>
+    <string name="culture">新华文化</string>
+    <string name="collection">收藏</string>
+
+</resources>

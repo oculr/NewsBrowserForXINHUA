@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/politicspro"
+            android:icon="@color/black"
+            android:title="@string/politics" />
+        <item
+            android:id="@+id/worldpro"
+            android:icon="@drawable/politics"
+            android:title="@string/world" />
+
+        <item
+            android:id="@+id/fortunepro"
+            android:icon="@drawable/legal"
+            android:title="@string/fortune" />
+
+        <item
+            android:id="@+id/techpro"
+            android:icon="@drawable/tech"
+            android:title="@string/tech" />
+
+        <item
+            android:id="@+id/culturepro"
+            android:icon="@drawable/money"
+            android:title="@string/culture" />
+    </group>
+
+<!--    <item-->
+<!--        android:id="@+id/nav_collection"-->
+<!--        android:icon="@drawable/collection"-->
+<!--        android:title="@string/menu_collection" />-->
+</menu>

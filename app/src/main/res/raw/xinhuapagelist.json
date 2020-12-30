@@ -1,0 +1,30 @@
+{
+	"Page": [
+		{
+			"name": "politicspro",
+			"apiurl": "http://www.news.cn/politicspro/json/xh_politicsproDepth.js",
+			"jscall": "var politicsproDepth = "
+		},
+		{
+			"name" : "worldpro",
+			"apiurl" : "http://www.news.cn/worldpro/json/xh_worldproDepth.js",
+			"jscall" : "var worldproDepth = "
+
+		},
+		{
+			"name": "fortunepro",
+			"apiurl": "http://www.news.cn/fortunepro/json/xh_fortuneproDepth.js",
+			"jscall": "var fortuneproDepth = "
+		},
+		{
+			"name": "techpro",
+			"apiurl": "http://www.news.cn/techpro/json/xh_techproDepth.js",
+			"jscall": "var techproDepth = "
+		},
+		{
+			"name": "culturepro",
+			"apiurl": "http://www.news.cn/culturepro/json/xh_cultureproDepth.js",
+			"jscall": "var cultureproDepth = "
+		}
+	]
+}
